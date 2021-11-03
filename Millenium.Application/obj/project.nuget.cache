@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPtzImBH9Xc19T9CHWPOkohmI799bNM00umtVCVuP+Ke8bPFh0my6ulO/q4leyZr5ItR9MEddNgLxQCfw9aYJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skore\\RiderProjects\\Millennium\\Millenium.Application\\Millenium.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skore\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\skore\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\skore\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\skore\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\skore\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\skore\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
